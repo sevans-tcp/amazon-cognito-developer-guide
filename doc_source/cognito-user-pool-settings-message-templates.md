@@ -20,7 +20,7 @@ You can use advanced security template placeholders to do the following:
 + Use event ID, feedback token, and user name to build your own one\-click link\.
 
 **Note**  
-To generate one\-clink links and use the `{one-click-link-valid}` and `{one-click-link-invalid}` placeholders in advanced security email templates, you must already have a domain configured for your user pool\.
+To generate one\-click links and use the `{one-click-link-valid}` and `{one-click-link-invalid}` placeholders in advanced security email templates, you must already have a domain configured for your user pool\.
 
 
 **Advanced security template placeholders**  
